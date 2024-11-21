@@ -1,5 +1,3 @@
-### Quargi
-
 This repository hosts a dual-system project featuring a **serial-controlled robot** powered by an Arduino, and an **ESP32-CAM-based color detection and tracking module**. The combination of these two systems enables advanced, responsive tracking and movement based on real-time visual input, ideal for a wide range of robotics applications.
 
 #### Key Components
