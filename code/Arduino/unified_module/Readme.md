@@ -9,7 +9,6 @@
 - [Usage](#usage)
 - [Command Reference](#command-reference)
 - [Flowchart](#flowchart)
-- [Simulation](#simulation)
 - [Contributing](#contributing)
 - [Troubleshooting](#troubleshooting)
 
