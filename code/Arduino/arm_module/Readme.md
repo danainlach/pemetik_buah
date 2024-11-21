@@ -118,9 +118,6 @@ Ensure that `RobotArm.h` and `RobotArm.cpp` are included in the project or insta
 - **Movement Out of Bounds**: Avoid exceeding the physical limits of your robotic arm to prevent damage.
 - **Serial Communication**: Make sure the Serial Monitor is set to a baud rate of 9600.
 
-## Simulation
-
-You can try the code on this [wokwi simulation](https://wokwi.com/projects/412701713440647169)
 
 ## flowchart
 
