@@ -168,9 +168,6 @@ GRIPPER_PIN = 11   // Gripper servo
 
 ![flowchart](flowchart.png)
 
-## Simulation
-
-[wokwi simulation](https://wokwi.com/projects/413553975571905537)
 
 ## Contributing
 1. Fork the repository
