@@ -81,9 +81,6 @@ Below are the commands you can send over serial to control the robot's various f
 - **No response from ultrasonic sensor**: Check TRIG and ECHO pin connections.
 - **Motor does not respond**: Verify motor driver connections, power supply, and ensure the motor driver supports PWM.
 
-## Simulation
-
-You can try the code on this [wokwi simulation](https://wokwi.com/projects/411701535913761793)
 
 ## flowchart
 
